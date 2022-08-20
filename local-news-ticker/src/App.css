@@ -1,0 +1,30 @@
+html, body, #root{ 
+  height: 100%;
+  font-family: 'Anek Latin', sans-serif;
+  background-color: #FFFCF2;
+}
+
+h1{
+  align-items: center;
+  text-align: center;
+  border-bottom-width: 10px;
+  border-bottom-color: black;
+  font-weight: 300;
+  font-size: 3rem;
+}
+
+.App{
+  background-color:#FFFCF2;
+  font-family: 'Anek Latin', sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+.line{
+  width: 30%; 
+  background-color:black;
+  height: 0.1em;
+  border-radius: 10%;
+  position: absolute;
+  left: 34%
+}

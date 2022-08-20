@@ -1,0 +1,22 @@
+.TimeBar{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.TimeBarContainer{
+    padding-top: 0.5em;
+}
+
+.TimeSegment{
+    
+    float: right;
+}
+
+.smallLine{
+    height: 0.02em;
+    width: 25%;
+    background-color: black;
+    left:25%;
+}
