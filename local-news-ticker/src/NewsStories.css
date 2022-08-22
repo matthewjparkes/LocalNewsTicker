@@ -1,0 +1,12 @@
+.StoryContainer{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+.StoryContainer h3 {
+    font-weight: 300;
+    font-size: 34px;
+    margin-bottom: 2rem;
+    margin-top: auto;
+}

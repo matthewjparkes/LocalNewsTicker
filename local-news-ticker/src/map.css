@@ -1,0 +1,57 @@
+.MapContainer{
+    align-items: center;
+    position:relative;
+}
+
+#MapImage{
+    height: 80%;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+.MapBox{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    position:absolute;
+}
+
+#NorthAmerica{
+    height: 40%;
+    top: 0%;
+    left: 0%;
+    width: 25%;
+}
+#Europe{
+    height: 40%;
+    top: 0%;
+    left: 25%;
+    width: 25%;
+}
+#Asia{
+    height: 40%;
+    top: 0%;
+    left: 50%;
+    width: 30%;
+}
+
+#SouthAmerica{
+    height: 40%;
+    top: 40%;
+    left: 0%;
+    width: 25%;
+}
+#Africa{
+    height: 40%;
+    top: 40%;
+    left: 25%;
+    width: 25%;
+}
+#Australasia{
+    height: 40%;
+    top: 40%;
+    left: 50%;
+    width: 30%;
+}
