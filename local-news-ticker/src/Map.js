@@ -29,6 +29,7 @@ export class Map extends React.Component{
 
           }
         this.props.onMapSelect(e.target.id, regionName);
+        this.props.onRegionSelect(regionName);
     }
     render(){
         return (
